@@ -1,7 +1,8 @@
 - 👋 Hi , I am Shefali Mittal
 - 😄 She/her
 - 👀 Looking for full time roles as Software Developer.
-- 🌱 I am graduate Computer Science student at University of Texas at Arlington 
+- 🌱 I am graduate Computer Science student at #0969DA University of Texas at Arlington
+- 🔭 Technologies 
 
 
 <!--
