@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shefali Mittal</h1>
 <h3 align="center">Graduate Computer Science student at University of Texas at Arlington</h3>
 <h3 align="center">Software development experience 6 years at Accenture and Cognizant</h3>
-<img align="right" alt="Coding" width="400" src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/224e74c1-4f21-4cca-88f1-8db98c3ad270/2ef0a9b0-8832-4b45-87c7-e2234bb4dce1.png">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smitta11&label=Profile%20views&color=0e75b6&style=flat" alt="smitta11" /> </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/224e74c1-4f21-4cca-88f1-8db98c3ad270/2ef0a9b0-8832-4b45-87c7-e2234bb4dce1.png">
+ -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=smitta11&label=Profile%20views&color=0e75b6&style=flat" alt="smitta11" /> </p>
 
 - 🌱 I’m currently learning **React,Node.js,Express.js**
 
 - 📫 How to reach me **sxm5262@mavs.uta.edu**
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitta11&show_icons=true&locale=en&layout=compact" alt="smitta11" /></p>
 <h3 align="center">Languages and Tools:</h3>
 <table align="center" border="0" cellspacing="10" cellpadding="5">
   <tr>
@@ -196,6 +194,7 @@
     </td>
   
   </tr>
+
 
 
 
