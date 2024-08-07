@@ -12,8 +12,8 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitta11&show_icons=true&locale=en&layout=compact" alt="smitta11" /></p>
-<h3 align="left">Languages and Tools:</h3>
-<table align="left" border="0" cellspacing="10" cellpadding="5">
+<h3 align="center">Languages and Tools:</h3>
+<table align="center" border="0" cellspacing="10" cellpadding="5">
   <tr>
     <td align="center">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
