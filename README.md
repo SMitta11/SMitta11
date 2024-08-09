@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React,Node.js,Express.js**
 
-- 📫 How to reach me **sxm5262@mavs.uta.edu**
+- 📫 How to reach me **shefalimittal92@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
