@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React,Node.js,Express.js**
 
-- 📫 How to reach me **shefalimittal92@gmail.com**
-
 
 <h3 align="center">Languages and Tools:</h3>
 <table align="center" border="0" cellspacing="10" cellpadding="5">
