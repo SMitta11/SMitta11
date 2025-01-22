@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shefali Mittal</h1>
 <h3 align="center">Software Engineer at One Community</h3>
-<h3 align="center">Graduate Computer Science student at the University of Texas at Arlington</h3>
+<h3 align="center">Masters in Computer Science from the University of Texas at Arlington</h3>
 <h3 align="center">6 years of software development experience at Accenture and Cognizant</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/224e74c1-4f21-4cca-88f1-8db98c3ad270/2ef0a9b0-8832-4b45-87c7-e2234bb4dce1.png">
  -->
